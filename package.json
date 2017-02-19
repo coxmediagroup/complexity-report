@@ -1,0 +1,17 @@
+{
+  "name": "complexity-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coxmediagroup/complexity-report.git"
+  },
+  "author": "Dan Cobb <dan.cobb@coxinc.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/coxmediagroup/complexity-report#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "es6-plato": "^1.0.14"
+  }
+}
