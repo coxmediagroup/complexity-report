@@ -7,6 +7,8 @@
 ### Setup
 ```sh
 git clone https://github.com/coxmediagroup/complexity-report.git
+cd complexity-report
+npm i
 ```
 
 ### Running
